@@ -2,7 +2,7 @@
 let svgWidth = 960;
 let svgHeight = 620;
 
-// setting up the borders in svg
+// setting up borders in svg
 let margin = {
   top: 20, 
   right: 40, 
